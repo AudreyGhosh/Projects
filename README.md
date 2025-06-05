@@ -26,4 +26,5 @@ Analyzed historical course registration data to create a conflict matrix guarant
 - Generated a conflict matrix to optimize exam scheduling under resource and policy constraints.
 
 Project Documentation: https://github.com/AudreyGhosh/Projects/blob/bea2c927189881f9302a08372f7c82416723ea0a/Prerequisite%20-%20Scheduling%20Documentation.pdf
+
 Project Code: https://github.com/AudreyGhosh/Projects/blob/2afbad079c667e31f65332dd1fff7e78eb692476/Audrey's_Prerequisite_code.ipynb

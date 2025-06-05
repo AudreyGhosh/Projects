@@ -12,7 +12,7 @@ Project Research Report Link: [https://github.com/AudreyGhosh/Projects/blob/ef73
 
 ## 2. Quantitative Trading Strategy Implementation
 
-Developed and backtested a quantitative trading strategy using market data from the CTC-2024-Derivatives dataset.
+Developed and backtested a quantitative trading strategy for the Cornell Trading Competition in 2024. Market data is from the CTC-2024-Derivatives dataset.
 - Constructed trading signals and executed systematic backtests.
 - Evaluated strategy performance using Sharpe Ratio and maximum drawdown metrics.
 

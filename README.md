@@ -1,5 +1,5 @@
 # Projects
-This repository contains Audrey's projects, focusing on data-driven equity analysis (Alternative Data Strategy), trading strategy development (Cornell Trading Competition Strategy), and general data analytics (Ooperations Research project).
+This repository contains Audrey's projects, focusing on data-driven equity analysis (Alternative Data Strategy), trading strategy development (Cornell Trading Competition Strategy), and general data analytics (Operations Research project).
 
 ## 1. Alternative Data-Driven Stock Trend Analysis
 
